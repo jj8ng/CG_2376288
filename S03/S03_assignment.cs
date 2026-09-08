@@ -15,11 +15,15 @@ public class S03_SingleTriangleMesh_Finish : MonoBehaviour
             new Vector3(1f, 0f, 1f), // 5
             new Vector3(1f, 1f, 1f), // 6
             new Vector3(0f, 1f, 1f), // 7
+            new Vector3(0f, 2f, 0f), // 8
+            new Vector3(1f, 2f, 0f), // 9
         };
 
         int[] triangles = new int[] {
             0,2,1,
             0,3,2,
+            8,3,2,
+            8,2,9,
         };
 
         Mesh mesh = new Mesh();
