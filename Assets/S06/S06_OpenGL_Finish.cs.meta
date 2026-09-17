@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6fd7d4ee47edb4e09bb0a36b6e5cac41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glMaterial: {fileID: 2100000, guid: 131148bc8d8324e6f9fd66fcddbba3d4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
